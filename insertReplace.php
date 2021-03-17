@@ -14,16 +14,7 @@ class insertReplace{
         
         $newarr = array_splice($this->arr,$this->Position,0,$this->InsertedValue);
         echo "After inserting $InsertedValue in $Position of this array is : "; 
-        // echo "$newarr";
-        // echo "$this->arr";
-        // echo implode("",$newarr);
-        echo "$newarr";
-        echo "sinha";
-        // foreach ($newarr as $x)  
-        // { 
-        // echo "$x "; 
-        // } 
-        
+  
 
     }
     
