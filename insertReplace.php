@@ -18,6 +18,7 @@ class insertReplace{
         // echo "$this->arr";
         // echo implode("",$newarr);
         echo "$newarr";
+        echo "hello";
         // foreach ($newarr as $x)  
         // { 
         // echo "$x "; 
